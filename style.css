@@ -5,7 +5,7 @@
    
    header{
        background-color:rgb(17, 17 , 151);
-       color: rgb(8, 161, 161);
+       color: rgb(148, 8, 161);
        display: flex;
        justify-content: space-around;
        align-items: center;
@@ -26,14 +26,14 @@
       }
    
       .escola{
-          background-image: linear-gradient(rgb(17, 17 , 151),rgb(8, 161, 161));
+          background-image: linear-gradient(rgb(17, 17 , 151),rgb(148, 8, 161));
           color:aliceblue;
           display: flex;
           justify-content: center;
           padding: 30px 0;
       }
        .banner{ 
-        margin: 20px;
+        margin: 10px;
   
 }
 
@@ -42,9 +42,37 @@
        }
 
       .somos-imagem{
-         width: 250px;
+        width: 280px;
       }
-         
+
+      .somos-imagem2{
+        width: 280px;
+      }
+
+      .Quem {
+        text-align: center;
+        padding: 50px 0;
+      }
+
+      .somos-todos{
+        display: grid;
+        grid-template-columns: 60% 60%;
+      }
+
+      .rodape{
+        background-color: blue;
+        text-align: center;
+      }
+
+      .rodape-imagem{
+        height: 80px;
+        padding: 15px 0;
+      }
+
+
+
+
+
 
 
 
