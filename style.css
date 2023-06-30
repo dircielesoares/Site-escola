@@ -1,7 +1,7 @@
-{
+    {
     margin: 0%;
     padding: 0%
-   }
+    }
    
    header{
        background-color:rgb(17, 17 , 151);
@@ -9,17 +9,17 @@
        display: flex;
        justify-content: space-around;
        align-items: center;
-       padding: 10px;
+       padding:10px;
      }
+
      .cabecalho-imagem {
-       width: 1%;
-   
+       width: 25%;
      }
    
      .cabecalho-lista-item{
        display: inline-block;
-       margin: 0 20px;
-       font-size: 24px;
+       margin: 0 30px;
+       font-size: 30px;
      }
       .escola-imagem{
         width: 50%;;
@@ -30,17 +30,17 @@
           color:aliceblue;
           display: flex;
           justify-content: center;
-          padding: 30px 0;
+          padding: 50px 0;
       }
       .osurgimentodocolegio{
         width: 50%;
       }
        .banner{ 
-        margin: 30px;
+        margin: 40px;
        }
 
       .escola-div-conteudo{
-        width: 35%;
+        width: 55%;
       }
 
       .somos-imagem{
@@ -53,16 +53,16 @@
 
       .Quem {
         text-align: center;
-        padding: 50px 0;
+        padding: 140px 0;
       }
 
       .somos-todos{
         display: grid;
-        grid-template-columns: 60% 60%;
+        grid-template-columns: 70% 70%;
       }
 
       .somos-imagem3{
-        width: 280px;
+        width: 140px;
       }
 
       .rodape{
@@ -71,8 +71,8 @@
       }
 
       .rodape-imagem{
-        height: 80px;
-        padding: 15px 0;
+        height: 90px;
+        padding: 30px 0;
       }
 
 
